@@ -3,6 +3,8 @@
 > 본 글은 아래 강의를 바탕으로 작성되었습니다.
 >
 > [CSA2021 컴퓨터시스템구조 제 4 장 Part-1](https://youtu.be/LDjco5XJH1E)
+>
+> [CSA2021 컴퓨터시스템구조 제 4 장 Part-2](https://youtu.be/IUapFpDKhKI)
 
 <br>
 
